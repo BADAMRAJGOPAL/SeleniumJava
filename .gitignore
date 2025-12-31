@@ -25,3 +25,5 @@ Thumbs.db
 
 # Eclipse (optional, in case someone uses Eclipse)
 .settings/
+
+.readme.md

@@ -6,9 +6,13 @@
   <groupId>com.cogmento</groupId>
   <artifactId>ui-automation</artifactId>
   <version>1.5</version>
+  <packaging>pom</packaging>
 
   <name>ui-automation</name>
   <url>https://cogmento.com/</url>
+  <modules>
+    <module>reports</module>
+  </modules>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
