@@ -1,0 +1,27 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Maven
+target/
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+
+# Sonar
+.sonarlint/
+
+# Eclipse (optional, in case someone uses Eclipse)
+.settings/
